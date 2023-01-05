@@ -1,0 +1,17 @@
+
+.box {
+  width: 25%;
+  border: black;
+  border-width: 10px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  height: 25%;
+}
+
+.column h1 {
+  font-weight: bold;
+}
+
