@@ -9,7 +9,7 @@
 
 ## Description
 
-_Webpages for the Television band. Practiced columns, floating images, alignment._
+_Webpages for a shelter. Practiced columns, floating images, alignment._
 
 ## Setup/Installation Requirements
 
